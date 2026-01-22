@@ -1,3 +1,5 @@
+package tema1;
+
 public class SalutLume {
 
     public static double sum(double nr1, double nr2)
